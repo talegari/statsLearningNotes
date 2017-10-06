@@ -1,7 +1,7 @@
 # Statistical Learning Notes
 
 ## Papers
-- [Do little interactions get lost in dark random forests?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4815164/) by Marvin N. Wright, Andreas Ziegler, and Inke R. König
+- [Do little interactions get lost in dark random forests?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4815164/) by Marvin N. Wright et al
 - [A Brief Survey of Text Mining: Classification, Clustering and Extraction Techniques](https://arxiv.org/abs/1707.02919v2) by Mehdi Allahyari et al
 
 
@@ -9,3 +9,10 @@
 
 
 ## Notes/Books
+- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+- [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
+- [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
+- [A course in Machine learning](http://ciml.info/)
+- [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences)
+- [Statlect: digital textbook on probability and statistics](https://statlect.com/)
