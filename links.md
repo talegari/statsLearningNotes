@@ -17,3 +17,4 @@
 - [A course in Machine learning](http://ciml.info/)
 - [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences)
 - [Statlect: digital textbook on probability and statistics](https://statlect.com/)
+- [Forecasting: Principles and Practice](http://otexts.org/fpp2/) by Rob J Hyndman, George Athanasopoulos
