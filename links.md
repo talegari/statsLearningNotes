@@ -3,6 +3,7 @@
 ## Papers
 - [Do little interactions get lost in dark random forests?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4815164/) by Marvin N. Wright et al
 - [A Brief Survey of Text Mining: Classification, Clustering and Extraction Techniques](https://arxiv.org/abs/1707.02919v2) by Mehdi Allahyari et al
+- [An Overview on Data Representation Learning: From Traditional Feature Learning to Recent Deep Learning](https://arxiv.org/abs/1611.08331v1) by Guoqiang Zhong et al
 
 
 ## Courses
