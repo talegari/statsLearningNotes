@@ -19,3 +19,4 @@
 - [Statlect: digital textbook on probability and statistics](https://statlect.com/)
 - [Forecasting: Principles and Practice](http://otexts.org/fpp2/) by Rob J Hyndman, George Athanasopoulos
 - [Time Series Analysis with R](www.stats.uwo.ca/faculty/aim/tsar/tsar.pdf) by A. Ian McLeod, Hao Yu, Esam Mahdi
+- [Time Series Analysis](http://www.stat.pitt.edu/stoffer/tsa4/) by DD Stoffer
