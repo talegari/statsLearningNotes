@@ -6,6 +6,7 @@
 - [An Overview on Data Representation Learning: From Traditional Feature Learning to Recent Deep Learning](https://arxiv.org/abs/1611.08331v1) by Guoqiang Zhong et al
 - [Random Forests](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf)  by Leo Breiman (2001)
 - [An Introduction to Variable and Feature Selection](www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf) by Guyon et al
+- [Correlation and variable importance in random forests](https://arxiv.org/abs/1310.5726)
 
 
 ## Courses
