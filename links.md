@@ -5,6 +5,7 @@
 - [A Brief Survey of Text Mining: Classification, Clustering and Extraction Techniques](https://arxiv.org/abs/1707.02919v2) by Mehdi Allahyari et al
 - [An Overview on Data Representation Learning: From Traditional Feature Learning to Recent Deep Learning](https://arxiv.org/abs/1611.08331v1) by Guoqiang Zhong et al
 - [Random Forests](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf)  by Leo Breiman (2001)
+- [An Introduction to Variable and Feature Selection](www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf) by Guyon et al
 
 
 ## Courses
