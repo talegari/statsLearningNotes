@@ -10,7 +10,7 @@
 
 
 ## Courses
-
+- [Statistics 701: Special Topics in Applied Statistics II](http://dept.stat.lsa.umich.edu/~jerrick/courses/stat701/index.html) by Josh Errickson
 
 ## Notes/Books
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
