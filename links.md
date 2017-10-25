@@ -8,6 +8,7 @@
 - [An Introduction to Variable and Feature Selection](www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf) by Guyon et al
 - [Correlation and variable importance in random forests](https://arxiv.org/abs/1310.5726) by Baptiste Gregorutti et al
 - [A Comparison of Resampling and Recursive Partitioning Methods in Random Forest for Estimating the Asymptotic Variance Using the Infinitesimal Jackknife](https://arxiv.org/abs/1706.06150) by Cole Brokamp, MB Rao, Patrick Ryan, Roman Jandarov
+- [An analytic approach for interpretable predictive models in high dimensional data, in the presence of interactions with exposures](https://doi.org/10.1101/102475) by Bhatnagar, SR., Yang, Y., Blanchette, M., Bouchard, L., Khundrakpam, B., Evans, A., Greenwood, CMT
 
 
 ## Courses
