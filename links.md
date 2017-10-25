@@ -7,6 +7,7 @@
 - [Random Forests](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf)  by Leo Breiman (2001)
 - [An Introduction to Variable and Feature Selection](www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf) by Guyon et al
 - [Correlation and variable importance in random forests](https://arxiv.org/abs/1310.5726) by Baptiste Gregorutti et al
+- [A Comparison of Resampling and Recursive Partitioning Methods in Random Forest for Estimating the Asymptotic Variance Using the Infinitesimal Jackknife](https://arxiv.org/abs/1706.06150) by Cole Brokamp, MB Rao, Patrick Ryan, Roman Jandarov
 
 
 ## Courses
