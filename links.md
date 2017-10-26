@@ -30,3 +30,4 @@
 - [Forecasting: Principles and Practice](http://otexts.org/fpp2/) by Rob J Hyndman, George Athanasopoulos
 - [Time Series Analysis with R](www.stats.uwo.ca/faculty/aim/tsar/tsar.pdf) by A. Ian McLeod, Hao Yu, Esam Mahdi
 - [Time Series Analysis](http://www.stat.pitt.edu/stoffer/tsa4/) by DD Stoffer
+- [Statistical foundations of machine learning](www.ulb.ac.be/di/map/gbonte/mod_stoch/syl.pdf) by G Bontempi
