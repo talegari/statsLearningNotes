@@ -16,6 +16,8 @@
 - [Statistics 701: Special Topics in Applied Statistics II](http://dept.stat.lsa.umich.edu/~jerrick/courses/stat701/index.html) by Josh Errickson
 - [Spring 2006: Introduction to Machine Learning (CMSC 726)](http://www.cs.umd.edu/class/spring2006/cmsc726/schedule.html)
 - [CS534: Machine Learning](http://web.engr.oregonstate.edu/~tgd/classes/534/index.html)
+- [Data Mining: Spring 2013](http://www.stat.cmu.edu/~ryantibs/datamining/) bt Ryan Tibshirani
+- [Statistical Machine Learning: Spring 2017](http://www.stat.cmu.edu/~ryantibs/statml/) by Ryan Tibshirani, Larry Wasserman
 
 ## Notes/Books
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
