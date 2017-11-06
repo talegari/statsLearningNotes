@@ -10,6 +10,7 @@
 - [A Comparison of Resampling and Recursive Partitioning Methods in Random Forest for Estimating the Asymptotic Variance Using the Infinitesimal Jackknife](https://arxiv.org/abs/1706.06150) by Cole Brokamp, MB Rao, Patrick Ryan, Roman Jandarov
 - [An analytic approach for interpretable predictive models in high dimensional data, in the presence of interactions with exposures](https://doi.org/10.1101/102475) by Bhatnagar, SR., Yang, Y., Blanchette, M., Bouchard, L., Khundrakpam, B., Evans, A., Greenwood, CMT
 - [Randomer Forests](https://arxiv.org/abs/1506.03410v2) by Tyler M. Tomita, Mauro Maggioni, Joshua T. Vogelstein
+- [Estimating Optimal Transformations for Multiple Regression Using the ACE Algorithm](www.jds-online.com/files/JDS-156.pdf) by Wang et al
 
 
 ## Courses
