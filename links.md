@@ -21,6 +21,7 @@
 - [Statistical Machine Learning: Spring 2017](http://www.stat.cmu.edu/~ryantibs/statml/) by Ryan Tibshirani, Larry Wasserman
 - [Online resources to learn statistics](https://onlinecourses.science.psu.edu/statprogram/) from Penn State Eberly College of Science
 - [Data Mining and Machine Learning](http://euler.stat.yale.edu/~tba3/stat665/) by Taylor Arnold
+- [Statistical Methods for Behavioral and Social Sciences](https://web.stanford.edu/class/psych252/index.html) by Ewart Thomas, Benoît Monin
 
 ## Notes/Books
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
