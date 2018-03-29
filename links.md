@@ -38,3 +38,5 @@
 - [Time Series Analysis](http://www.stat.pitt.edu/stoffer/tsa4/) by DD Stoffer
 - [Statistical foundations of machine learning](www.ulb.ac.be/di/map/gbonte/mod_stoch/syl.pdf) by G Bontempi
 - [Broadening Your Statistical Horizons: Generalized Linear Models and Multilevel Models](https://bookdown.org/roback/bookdown-bysh/) by J. Legler and P. Roback
+- [Principles of econometrics with R](https://bookdown.org/ccolonescu/RPoE4/) by Constantin Colonescu
+- [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php) by Eric-Jan Wagenmakers and Quentin F. Gronau
