@@ -40,3 +40,5 @@
 - [Broadening Your Statistical Horizons: Generalized Linear Models and Multilevel Models](https://bookdown.org/roback/bookdown-bysh/) by J. Legler and P. Roback
 - [Principles of econometrics with R](https://bookdown.org/ccolonescu/RPoE4/) by Constantin Colonescu
 - [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php) by Eric-Jan Wagenmakers and Quentin F. Gronau
+- [R for statistical learning](https://daviddalpiaz.github.io/r4sl/)
+- [Applied Statistics with R](https://daviddalpiaz.github.io/appliedstats/)
