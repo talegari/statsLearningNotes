@@ -43,3 +43,4 @@
 - [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php) by Eric-Jan Wagenmakers and Quentin F. Gronau
 - [R for statistical learning](https://daviddalpiaz.github.io/r4sl/) by David Dalpiaz
 - [Applied Statistics with R](https://daviddalpiaz.github.io/appliedstats/) by David Dalpiaz
+- [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/) by Claus O. Wilke
