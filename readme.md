@@ -1,5 +1,7 @@
 # Statistical Learning Notes
 
+A list of papers/notes/books in statistical learning and statistics with some leaning towards R.
+
 ## Papers
 - [Discovering general multidimensional associations](https://arxiv.org/abs/1303.1828) by Ben Murrell, Daniel Murrell, Hugh Murrell 
 - [Do little interactions get lost in dark random forests?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4815164/) by Marvin N. Wright et al
