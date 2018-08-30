@@ -45,3 +45,5 @@
 - [Applied Statistics with R](https://daviddalpiaz.github.io/appliedstats/) by David Dalpiaz
 - [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/) by Claus O. Wilke
 - [Introduction to Data Science](https://rafalab.github.io/dsbook/) by Irizary
+- [MATH 3070 R Lecture Notes](http://www.math.utah.edu/~cmiller/classes/FA183070/MATH3070LabBook/) by Curtis Miller
+- [plotly for R](http://plotly-book.cpsievert.me/) by Carson Sievert
