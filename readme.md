@@ -49,3 +49,4 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [Introduction to Data Science](https://rafalab.github.io/dsbook/) by Irizary
 - [MATH 3070 R Lecture Notes](http://www.math.utah.edu/~cmiller/classes/FA183070/MATH3070LabBook/) by Curtis Miller
 - [plotly for R](http://plotly-book.cpsievert.me/) by Carson Sievert
+- [Tutorials on Bayesian Nonparametrics](http://stat.columbia.edu/~porbanz/npb-tutorial.html)
