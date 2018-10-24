@@ -30,12 +30,12 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [Reproducible Research Course by Eric C. Anderson](http://eriqande.github.io/rep-res-web/)
 
 ## Notes/Books
-- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
-- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
-- [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
-- [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
-- [A course in Machine learning](http://ciml.info/)
-- [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences)
+- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Hastie et al
+- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Hastie et al
+- [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) by Shai Shalev-Shwartz and Shai Ben-David
+- [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/) by Cosma Rohilla Shalizi
+- [A course in Machine learning](http://ciml.info/) by Hall Daume III
+- [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences) by Irizarry
 - [Statlect: digital textbook on probability and statistics](https://statlect.com/)
 - [Forecasting: Principles and Practice](http://otexts.org/fpp2/) by Rob J Hyndman, George Athanasopoulos
 - [Time Series Analysis with R](www.stats.uwo.ca/faculty/aim/tsar/tsar.pdf) by A. Ian McLeod, Hao Yu, Esam Mahdi
@@ -47,10 +47,10 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [R for statistical learning](https://daviddalpiaz.github.io/r4sl/) by David Dalpiaz
 - [Applied Statistics with R](https://daviddalpiaz.github.io/appliedstats/) by David Dalpiaz
 - [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/) by Claus O. Wilke
-- [Introduction to Data Science](https://rafalab.github.io/dsbook/) by Irizary
+- [Introduction to Data Science](https://rafalab.github.io/dsbook/) by Irizarry
 - [MATH 3070 R Lecture Notes](http://www.math.utah.edu/~cmiller/classes/FA183070/MATH3070LabBook/) by Curtis Miller
 - [plotly for R](http://plotly-book.cpsievert.me/) by Carson Sievert
 - [Tutorials on Bayesian Nonparametrics](http://stat.columbia.edu/~porbanz/npb-tutorial.html)
 - [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/hands-on-machine-learning-with-r/) by Bradley Boehmke
 - [Process Improvement Using Data](http://learnche.org/pid) by Kevin Dunn
--[R BGU Course](http://www.john-ros.com/Rcourse/) by Jonathan D. Rosenblatt
+- [R BGU Course](http://www.john-ros.com/Rcourse/) by Jonathan D. Rosenblatt
