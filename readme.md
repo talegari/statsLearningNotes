@@ -29,6 +29,7 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [Data Mining and Machine Learning](http://euler.stat.yale.edu/~tba3/stat665/) by Taylor Arnold
 - [Statistical Methods for Behavioral and Social Sciences](https://web.stanford.edu/class/psych252/index.html) by Ewart Thomas, Benoît Monin
 - [Reproducible Research Course by Eric C. Anderson](http://eriqande.github.io/rep-res-web/)
+- [A workshop on analyzing topic modeling (LDA, CTM, STM) using R](https://github.com/wesslen/Topic-Modeling-Workshop-with-R)
 
 ## Notes/Books
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Hastie et al
