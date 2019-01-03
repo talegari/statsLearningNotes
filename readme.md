@@ -58,4 +58,5 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [R BGU Course](http://www.john-ros.com/Rcourse/) by Jonathan D. Rosenblatt
 - [Statistical Thinking for the 21st Century](http://thinkstats.org/) by Russell A. Poldrack
 - [Geocomputation with R](https://geocompr.robinlovelace.net/) by Robin Lovelace, Jakub Nowosad, Jannes Muenchow et al
+- [Learning Statistics with R](https://learningstatisticswithr.com/) by Danielle Navarro
 
