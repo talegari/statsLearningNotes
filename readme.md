@@ -17,6 +17,7 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [The Random Forest Kernel and other kernels for big data from random partitions](https://arxiv.org/abs/1402.4293) by Alex Davies, Zoubin Ghahramani
 - [Quantile Regression Forests](http://www.jmlr.org/papers/v7/meinshausen06a.html) by Nicolai Meinshausen
 - [Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/) by Sander Greenland et al
+- [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528) by Terence Parr, Jeremy Howard
 
 
 ## Courses
