@@ -60,4 +60,5 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [Statistical Thinking for the 21st Century](http://thinkstats.org/) by Russell A. Poldrack
 - [Geocomputation with R](https://geocompr.robinlovelace.net/) by Robin Lovelace, Jakub Nowosad, Jannes Muenchow et al
 - [Learning Statistics with R](https://learningstatisticswithr.com/) by Danielle Navarro
+- [An Introduction to Statistical and Data Sciences via R](https://moderndive.com/index.html) by Chester Ismay and Albert Y. Kim
 
