@@ -61,4 +61,5 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [Geocomputation with R](https://geocompr.robinlovelace.net/) by Robin Lovelace, Jakub Nowosad, Jannes Muenchow et al
 - [Learning Statistics with R](https://learningstatisticswithr.com/) by Danielle Navarro
 - [An Introduction to Statistical and Data Sciences via R](https://moderndive.com/index.html) by Chester Ismay and Albert Y. Kim
+- [R for healthcare data analysis](https://surgicalinformatics.github.io/healthyr_book/) by Ewen Harrison and Riinu Ots
 
