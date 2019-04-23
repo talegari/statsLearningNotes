@@ -62,4 +62,7 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [Learning Statistics with R](https://learningstatisticswithr.com/) by Danielle Navarro
 - [An Introduction to Statistical and Data Sciences via R](https://moderndive.com/index.html) by Chester Ismay and Albert Y. Kim
 - [R for healthcare data analysis](https://surgicalinformatics.github.io/healthyr_book/) by Ewen Harrison and Riinu Ots
+- [Statistical Machine Learning course at Uppsala University](http://www.it.uu.se/edu/course/homepage/sml) by Lindholm et al
+- [Mathematics for machine learning](https://mml-book.com/) by Marc Peter Deisenroth et al
+
 
