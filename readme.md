@@ -64,5 +64,6 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [R for healthcare data analysis](https://surgicalinformatics.github.io/healthyr_book/) by Ewen Harrison and Riinu Ots
 - [Statistical Machine Learning course at Uppsala University](http://www.it.uu.se/edu/course/homepage/sml) by Lindholm et al
 - [Mathematics for machine learning](https://mml-book.com/) by Marc Peter Deisenroth et al
+- [Five minute Stats](http://stephens999.github.io/fiveMinuteStats/) by Matthew Stephens
 
 
