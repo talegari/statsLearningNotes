@@ -66,3 +66,4 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [Statistical Machine Learning course at Uppsala University](http://www.it.uu.se/edu/course/homepage/sml) by Lindholm et al
 - [Mathematics for machine learning](https://mml-book.com/) by Marc Peter Deisenroth et al
 - [Five minute Stats](http://stephens999.github.io/fiveMinuteStats/) by Matthew Stephens
+- [Another Book on Data Science: Learn R and Python in Parallel](https://www.anotherbookondatascience.com/) by Nailong Zhang
