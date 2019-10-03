@@ -69,3 +69,4 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [Five minute Stats](http://stephens999.github.io/fiveMinuteStats/) by Matthew Stephens
 - [Another Book on Data Science: Learn R and Python in Parallel](https://www.anotherbookondatascience.com/) by Nailong Zhang
 - [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/) by Carl Edward Rasmussen and Christopher K. I. Williams
+- [Computer age statistical inference](https://web.stanford.edu/~hastie/CASI/index.html) by Bradley Efron, Trevor Hastie
