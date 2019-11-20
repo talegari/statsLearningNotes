@@ -70,3 +70,5 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [Another Book on Data Science: Learn R and Python in Parallel](https://www.anotherbookondatascience.com/) by Nailong Zhang
 - [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/) by Carl Edward Rasmussen and Christopher K. I. Williams
 - [Computer age statistical inference](https://web.stanford.edu/~hastie/CASI/index.html) by Bradley Efron, Trevor Hastie
+- [Predictive modeling with text](https://text-and-modeling-in-r.netlify.com/) by Emil Hvitfeldt, Julia Silge
+- [Text Mining with R](https://www.tidytextmining.com/) by Julia Silge and David Robinson
