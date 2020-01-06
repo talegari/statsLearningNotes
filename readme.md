@@ -72,3 +72,4 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [Computer age statistical inference](https://web.stanford.edu/~hastie/CASI/index.html) by Bradley Efron, Trevor Hastie
 - [Predictive modeling with text](https://text-and-modeling-in-r.netlify.com/) by Emil Hvitfeldt, Julia Silge
 - [Text Mining with R](https://www.tidytextmining.com/) by Julia Silge and David Robinson
+-[Using Spark from R for performance with arbitrary code](https://sparkfromr.com/) by Jozef Hajnala
