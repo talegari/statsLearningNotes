@@ -75,5 +75,6 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [Predictive modeling with text](https://text-and-modeling-in-r.netlify.com/) by Emil Hvitfeldt, Julia Silge
 - [Text Mining with R](https://www.tidytextmining.com/) by Julia Silge and David Robinson
 - [Using Spark from R for performance with arbitrary code](https://sparkfromr.com/) by Jozef Hajnala
-- [Mastering spark with R](https://therinspark.com/) by  Javier Luraschi, Kevin Kuo, Edgar Ruiz 
+- [Mastering spark with R](https://therinspark.com/) by  Javier Luraschi, Kevin Kuo, Edgar Ruiz
+- [Explanatory Model Analysis: Explore, Explain and Examine Predictive Models](https://pbiecek.github.io/ema/) by Przemyslaw Biecek and Tomasz Burzykowski
 
