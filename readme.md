@@ -35,6 +35,7 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [A workshop on analyzing topic modeling (LDA, CTM, STM) using R](https://github.com/wesslen/Topic-Modeling-Workshop-with-R)
 - [EMIS/CSE 5/7331: Data Mining, Fall 2018](https://michael.hahsler.net/SMU/EMIS7332/) by Hahsler
 - [Bayesian Deep Learning](https://www.cs.tufts.edu/comp/150BDL/2019f/index.html) -- Tufts CS Special Topics Course
+- [Data processing and more with R: LLAP 2019 workshop](https://github.com/Learning-Library-Analytics-Project/LLAP-Workshop-2019)
 
 ## Notes/Books
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Hastie et al
