@@ -79,4 +79,5 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [Mastering spark with R](https://therinspark.com/) by  Javier Luraschi, Kevin Kuo, Edgar Ruiz
 - [Explanatory Model Analysis: Explore, Explain and Examine Predictive Models](https://pbiecek.github.io/ema/) by Przemyslaw Biecek and Tomasz Burzykowski
 - [Rcpp for everyone](https://teuder.github.io/rcpp4everyone_en/) by Masaki E. Tsuda
+- [GAMs: Generalized additive models](https://m-clark.github.io/generalized-additive-models/introduction.html) by M Clark
 
