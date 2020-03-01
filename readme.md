@@ -80,4 +80,5 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [Explanatory Model Analysis: Explore, Explain and Examine Predictive Models](https://pbiecek.github.io/ema/) by Przemyslaw Biecek and Tomasz Burzykowski
 - [Rcpp for everyone](https://teuder.github.io/rcpp4everyone_en/) by Masaki E. Tsuda
 - [GAMs: Generalized additive models](https://m-clark.github.io/generalized-additive-models/introduction.html) by M Clark
-
+- [Data Science: Theories, Models, Algorithms, and Analytics](https://srdas.github.io/MLBook/) by Sanjiv Ranjan Das
+- Deep Learning [V1](https://srdas.github.io/DLBook/) and [V2](https://srdas.github.io/DLBook2/) by Subir Varma and Sanjiv Das
