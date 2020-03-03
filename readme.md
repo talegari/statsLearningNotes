@@ -82,3 +82,5 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [GAMs: Generalized additive models](https://m-clark.github.io/generalized-additive-models/introduction.html) by M Clark
 - [Data Science: Theories, Models, Algorithms, and Analytics](https://srdas.github.io/MLBook/) by Sanjiv Ranjan Das
 - Deep Learning [V1](https://srdas.github.io/DLBook/) and [V2](https://srdas.github.io/DLBook2/) by Subir Varma and Sanjiv Das
+- [Data Visualization: A practical introduction](https://socviz.co/) by Kieran Healy
+- [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/) by Hadley Wickham
