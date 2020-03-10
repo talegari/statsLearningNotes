@@ -85,3 +85,4 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - Deep Learning [V1](https://srdas.github.io/DLBook/) and [V2](https://srdas.github.io/DLBook2/) by Subir Varma and Sanjiv Das
 - [Data Visualization: A practical introduction](https://socviz.co/) by Kieran Healy
 - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/) by Hadley Wickham
+- [Analyzing Financial and Economic Data with R](https://www.msperlin.com/afedR/) by Marcelo S. Perlin
