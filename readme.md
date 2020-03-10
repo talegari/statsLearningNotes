@@ -36,6 +36,7 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [EMIS/CSE 5/7331: Data Mining, Fall 2018](https://michael.hahsler.net/SMU/EMIS7332/) by Hahsler
 - [Bayesian Deep Learning](https://www.cs.tufts.edu/comp/150BDL/2019f/index.html) -- Tufts CS Special Topics Course
 - [Data processing and more with R: LLAP 2019 workshop](https://github.com/Learning-Library-Analytics-Project/LLAP-Workshop-2019)
+- [ECON 305: Economics, Causality, and Analytics](http://www.nickchk.com/econ305.html) by Nick Huntington-Klein
 
 ## Notes/Books
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Hastie et al
