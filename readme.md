@@ -86,3 +86,4 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [Data Visualization: A practical introduction](https://socviz.co/) by Kieran Healy
 - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/) by Hadley Wickham
 - [Analyzing Financial and Economic Data with R](https://www.msperlin.com/afedR/) by Marcelo S. Perlin
+- [Lightweight Machine Learning Classics with R](https://lmlcr.gagolewski.com/) by Marek Gagolewski
