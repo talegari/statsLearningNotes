@@ -88,3 +88,7 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [Analyzing Financial and Economic Data with R](https://www.msperlin.com/afedR/) by Marcelo S. Perlin
 - [Lightweight Machine Learning Classics with R](https://lmlcr.gagolewski.com/) by Marek Gagolewski
 - [HPC with R](https://uscbiostats.github.io/hpc-with-r/) by Vega Yon et al from USC Epidemology
+- [Evidence-based Software Engineering](http://www.knosof.co.uk/ESEUR/) by Derek Jones
+- [JavaScript for Data Science](http://js4ds.org/) by Maya Gans, Toby Hodges, and Greg Wilson
+- [R for python programmers](http://tidynomicon.tech/) by Greg Wilson
+
