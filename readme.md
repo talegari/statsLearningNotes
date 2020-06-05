@@ -91,4 +91,5 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [Evidence-based Software Engineering](http://www.knosof.co.uk/ESEUR/) by Derek Jones
 - [JavaScript for Data Science](http://js4ds.org/) by Maya Gans, Toby Hodges, and Greg Wilson
 - [R for python programmers](http://tidynomicon.tech/) by Greg Wilson
+- [Spatial Data Science](https://keen-swartz-3146c4.netlify.app/) by Edzer Pebesma, Roger Bivand
 
