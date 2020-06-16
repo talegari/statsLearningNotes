@@ -92,4 +92,5 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [JavaScript for Data Science](http://js4ds.org/) by Maya Gans, Toby Hodges, and Greg Wilson
 - [R for python programmers](http://tidynomicon.tech/) by Greg Wilson
 - [Spatial Data Science](https://keen-swartz-3146c4.netlify.app/) by Edzer Pebesma, Roger Bivand
+- [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html) by Manuel Gimond
 
