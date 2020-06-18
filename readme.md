@@ -93,4 +93,6 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [R for python programmers](http://tidynomicon.tech/) by Greg Wilson
 - [Spatial Data Science](https://keen-swartz-3146c4.netlify.app/) by Edzer Pebesma, Roger Bivand
 - [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html) by Manuel Gimond
+- [Limitations of Interpretable Machine Learning Methods](https://compstat-lmu.github.io/iml_methods_limitations/)
+- [XAI stores](https://pbiecek.github.io/xai_stories/) : case studies for explainable artificial intelligence
 
