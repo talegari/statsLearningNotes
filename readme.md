@@ -96,4 +96,5 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [Limitations of Interpretable Machine Learning Methods](https://compstat-lmu.github.io/iml_methods_limitations/)
 - [XAI stores](https://pbiecek.github.io/xai_stories/) : case studies for explainable artificial intelligence
 - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/) by Emil Hvitfeldt and Julia Silge
+- [A Business Analyst’s Introduction to Business Analytics](https://www.causact.com/) by Adam Fleischhacker
 
