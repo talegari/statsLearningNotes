@@ -97,4 +97,5 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [XAI stores](https://pbiecek.github.io/xai_stories/) : case studies for explainable artificial intelligence
 - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/) by Emil Hvitfeldt and Julia Silge
 - [A Business Analyst’s Introduction to Business Analytics](https://www.causact.com/) by Adam Fleischhacker
+- [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/) by Susan Holmes, Wolfgang Huber
 
