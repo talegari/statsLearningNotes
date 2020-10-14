@@ -99,3 +99,6 @@ A list of papers/notes/books in statistical learning and statistics with some le
 - [A Business Analyst’s Introduction to Business Analytics](https://www.causact.com/) by Adam Fleischhacker
 - [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/) by Susan Holmes, Wolfgang Huber
 - [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html) by Daniel Friedman
+- [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/) by Alicia A. Johnson, Miles Ott, Mine Dogucu
+- [An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) by Merlise Clyde et al
+
