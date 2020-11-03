@@ -1,6 +1,6 @@
-# Statistical Learning Notes
+# Notes
 
-A list of papers/notes/books in statistical learning and statistics with some leaning towards R.
+A list of papers/notes/books in statistical learning, machine learning, datascience, statistics with some leaning towards R.
 
 ## Papers
 - [Discovering general multidimensional associations](https://arxiv.org/abs/1303.1828) by Ben Murrell, Daniel Murrell, Hugh Murrell 
