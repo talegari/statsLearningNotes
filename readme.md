@@ -103,5 +103,6 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) by Merlise Clyde et al
 - [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) by Matheus Facure Alves with Python code
 - [Handbook of Regression Modeling in People Analytics](http://peopleanalytics-regression-book.org/index.html) by Keith McNulty
+- [Applications of Deep neural networks](https://github.com/jeffheaton/t81_558_deep_learning) by Jeff Heaton
 
 
