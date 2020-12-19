@@ -37,6 +37,7 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Bayesian Deep Learning](https://www.cs.tufts.edu/comp/150BDL/2019f/index.html) -- Tufts CS Special Topics Course
 - [Data processing and more with R: LLAP 2019 workshop](https://github.com/Learning-Library-Analytics-Project/LLAP-Workshop-2019)
 - [ECON 305: Economics, Causality, and Analytics](http://www.nickchk.com/econ305.html) by Nick Huntington-Klein
+- [Machine learning 2015](https://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml) by Tom Mitchell
 
 ## Notes/Books
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Hastie et al
@@ -104,5 +105,6 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) by Matheus Facure Alves with Python code
 - [Handbook of Regression Modeling in People Analytics](http://peopleanalytics-regression-book.org/index.html) by Keith McNulty
 - [Applications of Deep neural networks](https://github.com/jeffheaton/t81_558_deep_learning) by Jeff Heaton
+- [Data Science: A First Introduction](https://ubc-dsci.github.io/introduction-to-datascience/) by Tiffany-Anne Timbers, Trevor Campbell, Melissa Lee
 
 
