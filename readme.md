@@ -106,5 +106,6 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Handbook of Regression Modeling in People Analytics](http://peopleanalytics-regression-book.org/index.html) by Keith McNulty
 - [Applications of Deep neural networks](https://github.com/jeffheaton/t81_558_deep_learning) by Jeff Heaton
 - [Data Science: A First Introduction](https://ubc-dsci.github.io/introduction-to-datascience/) by Tiffany-Anne Timbers, Trevor Campbell, Melissa Lee
+- [dive into deep learning](https://d2l.ai/index.html) by multiple authors with mxnet, pytorch and tensorflow adaptations
 
 
