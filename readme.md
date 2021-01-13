@@ -38,6 +38,7 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Data processing and more with R: LLAP 2019 workshop](https://github.com/Learning-Library-Analytics-Project/LLAP-Workshop-2019)
 - [ECON 305: Economics, Causality, and Analytics](http://www.nickchk.com/econ305.html) by Nick Huntington-Klein
 - [Machine learning 2015](https://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml) by Tom Mitchell
+- [Practical Applications in R for Psychologists.](https://github.com/mattansb/Practical-Applications-in-R-for-Psychologists) by Mattan S. Ben-Shachar
 
 ## Notes/Books
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Hastie et al
