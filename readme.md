@@ -109,5 +109,6 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Data Science: A First Introduction](https://ubc-dsci.github.io/introduction-to-datascience/) by Tiffany-Anne Timbers, Trevor Campbell, Melissa Lee
 - [dive into deep learning](https://d2l.ai/index.html) by multiple authors with mxnet, pytorch and tensorflow adaptations
 - [Modern Statistics with R](http://www.modernstatisticswithr.com/) by Mans Thulin
+- [Getting Started with Causal Inference](https://causalinference.gitlab.io/) by Emre Kiciman, Amit Sharma 
 
 
