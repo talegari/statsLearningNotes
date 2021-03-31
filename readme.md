@@ -40,6 +40,7 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Machine learning 2015](https://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml) by Tom Mitchell
 - [Practical Applications in R for Psychologists.](https://github.com/mattansb/Practical-Applications-in-R-for-Psychologists) by Mattan S. Ben-Shachar
 - [Full Stach deep learning](https://fullstackdeeplearning.com/) by Karayev, Tobin, Abbeel
+- [Mathematical Python](http://www.math.ubc.ca/~pwalls/math-python/) by Patrick Walls
 
 ## Notes/Books
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Hastie et al
