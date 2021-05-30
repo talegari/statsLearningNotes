@@ -39,8 +39,9 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [ECON 305: Economics, Causality, and Analytics](http://www.nickchk.com/econ305.html) by Nick Huntington-Klein
 - [Machine learning 2015](https://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml) by Tom Mitchell
 - [Practical Applications in R for Psychologists.](https://github.com/mattansb/Practical-Applications-in-R-for-Psychologists) by Mattan S. Ben-Shachar
-- [Full Stach deep learning](https://fullstackdeeplearning.com/) by Karayev, Tobin, Abbeel
+- [Full Stack deep learning](https://fullstackdeeplearning.com/) by Karayev, Tobin, Abbeel
 - [Mathematical Python](http://www.math.ubc.ca/~pwalls/math-python/) by Patrick Walls
+- [Mathematical Tools for Data Science](https://cds.nyu.edu/math-tools/) by Carlos Fernandez-Granda et al
 
 ## Notes/Books
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Hastie et al
@@ -114,4 +115,4 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Getting Started with Causal Inference](https://causalinference.gitlab.io/) by Emre Kiciman, Amit Sharma
 - [Machine Learning and AI in TensorFlow and R](https://theoreticalecology.github.io/machinelearning/) by Maximilian Pichler and Florian Hartig
 - [Notes of linear algebra chapters of Goodfellow's book](https://hadrienj.github.io/deep-learning-book-series-home/) by Hadrien Jean
-- [Data Visualization with R](https://rkabacoff.github.io/datavis/) by Rob Kabacoff
+- [Data Visualization with R](https://rkabacoff.github.io/datavis/) by Rob Kabacof
