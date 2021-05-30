@@ -42,6 +42,7 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Full Stack deep learning](https://fullstackdeeplearning.com/) by Karayev, Tobin, Abbeel
 - [Mathematical Python](http://www.math.ubc.ca/~pwalls/math-python/) by Patrick Walls
 - [Mathematical Tools for Data Science](https://cds.nyu.edu/math-tools/) by Carlos Fernandez-Granda et al
+- [DEEP LEARNING](https://atcold.github.io/pytorch-Deep-Learning/) NYU course 2020 by Yann LeCun & Alfredo Canziani
 
 ## Notes/Books
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Hastie et al
