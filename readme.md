@@ -118,3 +118,4 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Notes of linear algebra chapters of Goodfellow's book](https://hadrienj.github.io/deep-learning-book-series-home/) by Hadrien Jean
 - [Data Visualization with R](https://rkabacoff.github.io/datavis/) by Rob Kabacof
 - [Surrogates: Gaussian process modeling, design and optimization for the applied sciences](https://bookdown.org/rbg/surrogates/) by Robert B. Gramacy
+- [Statistics for (Micro/Immuno)Biologists](https://microimmunostats.netlify.app/) by Avinash Shenoy
