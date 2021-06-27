@@ -120,3 +120,5 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Surrogates: Gaussian process modeling, design and optimization for the applied sciences](https://bookdown.org/rbg/surrogates/) by Robert B. Gramacy
 - [Statistics for (Micro/Immuno)Biologists](https://microimmunostats.netlify.app/) by Avinash Shenoy
 - [Spatial Modelling for Data Scientists](https://gdsl-ul.github.io/san/) by Francisco Rowe, Dani Arribas-Bel
+- [Practical Data Science](https://m-clark.github.io/data-processing-and-visualization/https://m-clark.github.io/data-processing-and-visualization/) by Michael Clark
+
