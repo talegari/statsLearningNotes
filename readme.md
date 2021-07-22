@@ -124,4 +124,5 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/) by Nick Huntington-Klein
 - [The Mechanics of Machine Learning](https://mlbook.explained.ai/) by Terence Parr, Jeremy Howard
 - [Machine learning foundations](https://github.com/jonkrohn/ML-foundations) by John Krohn
-
+- [Multivariate Statistics and Machine Learning](http://www.strimmerlab.org/publications/lecture-notes/MATH38161/) by Korbinian Strimmer
+- [Statistical Methods: Likelihood, Bayes and Regression](http://www.strimmerlab.org/publications/lecture-notes/MATH20802/) by Korbinian Strimmer
