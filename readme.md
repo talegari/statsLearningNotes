@@ -126,3 +126,4 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Machine learning foundations](https://github.com/jonkrohn/ML-foundations) by John Krohn
 - [Multivariate Statistics and Machine Learning](http://www.strimmerlab.org/publications/lecture-notes/MATH38161/) by Korbinian Strimmer
 - [Statistical Methods: Likelihood, Bayes and Regression](http://www.strimmerlab.org/publications/lecture-notes/MATH20802/) by Korbinian Strimmer
+- [Targeted Learning in R: Causal Data Science with the tlverse](https://tlverse.org/tlverse-handbook/) by Mark van der Laan et al
