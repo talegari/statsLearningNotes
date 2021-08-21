@@ -128,3 +128,4 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Statistical Methods: Likelihood, Bayes and Regression](http://www.strimmerlab.org/publications/lecture-notes/MATH20802/) by Korbinian Strimmer
 - [Targeted Learning in R: Causal Data Science with the tlverse](https://tlverse.org/tlverse-handbook/) by Mark van der Laan et al
 - [Modern Data Science with R (2ed)](https://mdsr-book.github.io/mdsr2e/) by Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton
+- [Doing Bayesian Data Analysis in brms and the tidyverse](https://bookdown.org/content/3686/) by A Solomon Kurz
