@@ -130,3 +130,4 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Modern Data Science with R (2ed)](https://mdsr-book.github.io/mdsr2e/) by Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton
 - [Doing Bayesian Data Analysis in brms and the tidyverse](https://bookdown.org/content/3686/) by A Solomon Kurz
 - [Reproducible Data Science: Accessible Data Analysis with Open Source Python Tools and Real-World Data](https://valdanchev.github.io/reproducible-data-science-python/intro.html) by Valentin Danchev
+- [ Linear Algebra for Data Science with examples in R ](https://shainarace.github.io/LinearAlgebra/) by Shaina Race Bennett
