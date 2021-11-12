@@ -134,3 +134,5 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Reproducible Data Science: Accessible Data Analysis with Open Source Python Tools and Real-World Data](https://valdanchev.github.io/reproducible-data-science-python/intro.html) by Valentin Danchev
 - [Linear Algebra for Data Science with examples in R](https://shainarace.github.io/LinearAlgebra/) by Shaina Race Bennett
 - [Beyond multiple linear regression](https://bookdown.org/roback/bookdown-BeyondMLR/) by Paul Roback and Julie Legler
+- [Handbook of Graphs and Networks in People Analytics](https://ona-book.org/index.html) by Keith McNulty
+
