@@ -46,6 +46,11 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Program Evaluation for Public Service](https://evalf20.classes.andrewheiss.com/) -- Combine research design, causal inference, and econometric tools to measure the effects of social programs by Dr. Andrew Heiss
 - [Causal Inference R workshop](https://github.com/malcolmbarrett/causal_inference_r_workshop) by Malcolm Barrett
 
+## Interview Prep
+
+- [Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews) by alexey grigorev
+- 
+
 ## Notes/Books
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Hastie et al
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Hastie et al
@@ -137,4 +142,9 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Handbook of Graphs and Networks in People Analytics](https://ona-book.org/index.html) by Keith McNulty
 - [Reinforcement Learning Course Materials](https://github.com/upb-lea/reinforcement_learning_course_materials) by Paderborn University
 - [STAT 447 : Data Science Programming Methods](https://stat447.com/) by Dirk Eddelbuettel
-
+- [Tidy Finance with R](https://tidy-finance.org/index.html) by Christoph Scheuch, Stefan Voigt, and Patrick Weiss
+- [Introduction to deep learning](http://introtodeeplearning.com/) by MIT
+- [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org/) by Benoit Liquet, Sarat Moka and Yoni Nazarathy
+- [Improving your statistical inferences](https://lakens.github.io/statistical_inferences/index.html) by Daniel Lakens
+- [Statistics and Machine Learning in Python](https://duchesnay.github.io/pystatsml/) by Edouard Duchesnay, Tommy Lofstedt, Feki Younes
+- 
