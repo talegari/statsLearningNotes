@@ -147,4 +147,4 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org/) by Benoit Liquet, Sarat Moka and Yoni Nazarathy
 - [Improving your statistical inferences](https://lakens.github.io/statistical_inferences/index.html) by Daniel Lakens
 - [Statistics and Machine Learning in Python](https://duchesnay.github.io/pystatsml/) by Edouard Duchesnay, Tommy Lofstedt, Feki Younes
-- 
+- [The Mechanics of Machine Learning](https://mlbook.explained.ai/) by Terence Parr and Jeremy Howard
