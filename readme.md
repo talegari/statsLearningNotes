@@ -150,3 +150,4 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [The Mechanics of Machine Learning](https://mlbook.explained.ai/) by Terence Parr and Jeremy Howard
 - [Practical Data Analysis for Political Scientists](https://bkenkel.com/pdaps/) by Brenton Kenkel
 - [Applied Causal Analysis with R](https://bookdown.org/paul/applied-causal-analysis/) by Paul C. Bauer
+- [The Hitchhiker’s Guide to Longitudinal Models](https://mccormickneuro.github.io/static/longitudinal-primer/) by Ethan M. McCormick et al
