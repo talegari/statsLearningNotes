@@ -46,6 +46,7 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Program Evaluation for Public Service](https://evalf20.classes.andrewheiss.com/) -- Combine research design, causal inference, and econometric tools to measure the effects of social programs by Dr. Andrew Heiss
 - [Causal Inference R workshop](https://github.com/malcolmbarrett/causal_inference_r_workshop) by Malcolm Barrett
 - [Machine learning @VU](https://mlvu.github.io/)
+- [Deep learning @ VU](https://dlvu.github.io/)
 
 ## Interview Prep
 
