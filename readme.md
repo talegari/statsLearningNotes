@@ -51,6 +51,7 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 ## Interview Prep
 
 - [Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews) by alexey grigorev
+-[The IllustratedMachine Learning website](https://illustrated-machine-learning.github.io/index.html) by Francesco Di Salvo  et al
 - 
 
 ## Notes/Books
