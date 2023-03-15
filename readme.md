@@ -155,3 +155,4 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Applied Causal Analysis with R](https://bookdown.org/paul/applied-causal-analysis/) by Paul C. Bauer
 - [The Hitchhiker’s Guide to Longitudinal Models](https://mccormickneuro.github.io/static/longitudinal-primer/) by Ethan M. McCormick et al
 - [Understanding deep learning book](https://github.com/udlbook/udlbook) by JD Prince
+- [Geographic Data Science with R: Visualizing and Analyzing Environmental Change](https://bookdown.org/mcwimberly/gdswr-book/) by Michael C. Wimberly
