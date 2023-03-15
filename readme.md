@@ -47,6 +47,7 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Causal Inference R workshop](https://github.com/malcolmbarrett/causal_inference_r_workshop) by Malcolm Barrett
 - [Machine learning @VU](https://mlvu.github.io/)
 - [Deep learning @ VU](https://dlvu.github.io/)
+- [Applied Machine Learning course](https://kuleshov-group.github.io/aml-website/) by Cornell Univ
 
 ## Interview Prep
 
