@@ -158,3 +158,4 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Understanding deep learning book](https://github.com/udlbook/udlbook) by JD Prince
 - [Geographic Data Science with R: Visualizing and Analyzing Environmental Change](https://bookdown.org/mcwimberly/gdswr-book/) by Michael C. Wimberly
 - [R Without Statistics](https://book.rwithoutstatistics.com/index.html) by David Keyes
+- [Deep Learning and Scientific Computing with R torch](https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/) by Sigrid Keydana
