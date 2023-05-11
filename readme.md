@@ -160,3 +160,4 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [R Without Statistics](https://book.rwithoutstatistics.com/index.html) by David Keyes
 - [Deep Learning and Scientific Computing with R torch](https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/) by Sigrid Keydana
 - [Deep R programming](https://deepr.gagolewski.com/) by Gagolewski
+- [Causal Inference in R](https://www.r-causal.org/) by Malcolm Barrett, Lucy D’Agostino McGowan, Travis
