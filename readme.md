@@ -54,6 +54,7 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews) by alexey grigorev
 - [The IllustratedMachine Learning website](https://illustrated-machine-learning.github.io/index.html) by Francesco Di Salvo  et al
 - [Machine learning tutorials](https://github.com/ethen8181/machine-learning) by MingYu (Ethen) Liu
+- [Data-Science-Interview-Questions-Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers) by youssefHosni
 
 ## Notes/Books
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Hastie et al
