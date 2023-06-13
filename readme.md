@@ -162,3 +162,5 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Deep Learning and Scientific Computing with R torch](https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/) by Sigrid Keydana
 - [Deep R programming](https://deepr.gagolewski.com/) by Gagolewski
 - [Causal Inference in R](https://www.r-causal.org/) by Malcolm Barrett, Lucy D’Agostino McGowan, Travis
+- [OSE data science (Evaluating causal claims)](https://ose-data-science.readthedocs.io/en/latest/index.html) by Prof. Dr. Philipp Eisenhauer et al
+- [First course in causal inference](https://arxiv.org/abs/2305.18793) by Peng Ding
