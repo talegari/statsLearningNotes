@@ -164,3 +164,4 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Causal Inference in R](https://www.r-causal.org/) by Malcolm Barrett, Lucy D’Agostino McGowan, Travis
 - [OSE data science (Evaluating causal claims)](https://ose-data-science.readthedocs.io/en/latest/index.html) by Prof. Dr. Philipp Eisenhauer et al
 - [First course in causal inference](https://arxiv.org/abs/2305.18793) by Peng Ding
+- [Spatial Statistics for Data Science: Theory and Practice with R](https://www.paulamoraga.com/book-spatial/index.html) by Paula Moraga
