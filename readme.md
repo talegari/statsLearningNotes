@@ -167,3 +167,4 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [First course in causal inference](https://arxiv.org/abs/2305.18793) by Peng Ding
 - [Spatial Statistics for Data Science: Theory and Practice with R](https://www.paulamoraga.com/book-spatial/index.html) by Paula Moraga
 - [Devops for data science](https://do4ds.com/) by Alex Gold
+- [Building reproducible analytical pipelines with R](https://raps-with-r.dev/) by Bruno Rodrigues 
