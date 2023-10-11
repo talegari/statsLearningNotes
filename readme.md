@@ -169,4 +169,5 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Devops for data science](https://do4ds.com/) by Alex Gold
 - [Building reproducible analytical pipelines with R](https://raps-with-r.dev/) by Bruno Rodrigues
 - [Data Science: Theories, Models, Algorithms, and Analytics](https://srdas.github.io/MLBook/) by Sanjiv Ranjan Das
+- [That’s weird! Anomaly detection using R](https://otexts.com/weird/) by Rob Hyndman
 
