@@ -20,6 +20,7 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528) by Terence Parr, Jeremy Howard
 - [TABNET: ATTENTIVE INTERPRETABLE TABULAR LEARNING](https://arxiv.org/abs/1908.07442) by Sercan O Arik, TomasPfister
 - [Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data](https://arxiv.org/abs/1909.06312) by Sergei Popov, Stanislav Morozov, Artem Babenko
+- [Hierarchical Shrinkage: Improving the accuracy and interpretability of tree-based models.](https://proceedings.mlr.press/v162/agarwal22b.html) by Abhineet Agarwal et al
 
 
 ## Courses
@@ -170,4 +171,5 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Building reproducible analytical pipelines with R](https://raps-with-r.dev/) by Bruno Rodrigues
 - [Data Science: Theories, Models, Algorithms, and Analytics](https://srdas.github.io/MLBook/) by Sanjiv Ranjan Das
 - [That’s weird! Anomaly detection using R](https://otexts.com/weird/) by Rob Hyndman
+- [Machine Learning: The basics](https://github.com/alexjungaalto/MachineLearningTheBasics/) by Alexander Jung
 
