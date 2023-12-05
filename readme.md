@@ -49,6 +49,8 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Machine learning @VU](https://mlvu.github.io/)
 - [Deep learning @ VU](https://dlvu.github.io/)
 - [Applied Machine Learning course](https://kuleshov-group.github.io/aml-website/) by Cornell Univ
+- [Causal Inference Crash Course for Scientists](https://github.com/shoepaladin/causalinference_crashcourse) by Shoepaladin
+- [LLM Course](https://github.com/mlabonne/llm-course) by Maxime Labonne
 
 ## Interview Prep
 
