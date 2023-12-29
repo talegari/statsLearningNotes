@@ -136,7 +136,7 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Surrogates: Gaussian process modeling, design and optimization for the applied sciences](https://bookdown.org/rbg/surrogates/) by Robert B. Gramacy
 - [Statistics for (Micro/Immuno)Biologists](https://microimmunostats.netlify.app/) by Avinash Shenoy
 - [Spatial Modelling for Data Scientists](https://gdsl-ul.github.io/san/) by Francisco Rowe, Dani Arribas-Bel
-- [Practical Data Science](https://m-clark.github.io/data-processing-and-visualization/https://m-clark.github.io/data-processing-and-visualization/) by Michael Clark
+- [Practical Data Science](https://m-clark.github.io/data-processing-and-visualization/) by Michael Clark
 - [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/) by Nick Huntington-Klein
 - [The Mechanics of Machine Learning](https://mlbook.explained.ai/) by Terence Parr, Jeremy Howard
 - [Machine learning foundations](https://github.com/jonkrohn/ML-foundations) by John Krohn
