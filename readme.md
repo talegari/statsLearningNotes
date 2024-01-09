@@ -51,6 +51,7 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Applied Machine Learning course](https://kuleshov-group.github.io/aml-website/) by Cornell Univ
 - [Causal Inference Crash Course for Scientists](https://github.com/shoepaladin/causalinference_crashcourse) by Shoepaladin
 - [LLM Course](https://github.com/mlabonne/llm-course) by Maxime Labonne
+- [https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil/research/methods/ai-machine-learning/short-course](https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil/research/methods/ai-machine-learning/short-course) by Susan Athey et al
 
 ## Interview Prep
 
