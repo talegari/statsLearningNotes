@@ -176,4 +176,5 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [That’s weird! Anomaly detection using R](https://otexts.com/weird/) by Rob Hyndman
 - [Machine Learning: The basics](https://github.com/alexjungaalto/MachineLearningTheBasics/) by Alexander Jung
 - [Applied Multivariate Statistics in R](https://uw.pressbooks.pub/appliedmultivariatestatistics/) by Jonathan Bakker
+- [Supervised Machine Learning for Science](https://ml-science-book.com/) by Christoph Molnar and Timo Freiesleben
 
