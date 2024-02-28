@@ -177,4 +177,7 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Machine Learning: The basics](https://github.com/alexjungaalto/MachineLearningTheBasics/) by Alexander Jung
 - [Applied Multivariate Statistics in R](https://uw.pressbooks.pub/appliedmultivariatestatistics/) by Jonathan Bakker
 - [Supervised Machine Learning for Science](https://ml-science-book.com/) by Christoph Molnar and Timo Freiesleben
+- [Big Data Analytics](https://umatter.github.io/BigData/) by Ulrich Matter
+- [Fraud Detection (practical handbook)](https://fraud-detection-handbook.github.io/fraud-detection-handbook/Foreword.html) by Yann-Aël Le Borgne et al
+- [Imbalanced Binary Classification: A Survey with code](https://pibieta.github.io/imbalanced_learning/README.html) by Alessandro Morita et al
 
