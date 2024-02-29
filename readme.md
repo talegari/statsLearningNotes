@@ -52,6 +52,8 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Causal Inference Crash Course for Scientists](https://github.com/shoepaladin/causalinference_crashcourse) by Shoepaladin
 - [LLM Course](https://github.com/mlabonne/llm-course) by Maxime Labonne
 - [https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil/research/methods/ai-machine-learning/short-course](https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil/research/methods/ai-machine-learning/short-course) by Susan Athey et al
+- [Practical Bandits: A tutorial](https://sites.google.com/view/practical-bandits-tutorial/) by Bram Van Dan Akker et al
+
 
 ## Interview Prep
 
