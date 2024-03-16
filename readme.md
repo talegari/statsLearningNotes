@@ -54,6 +54,7 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil/research/methods/ai-machine-learning/short-course](https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil/research/methods/ai-machine-learning/short-course) by Susan Athey et al
 - [Practical Bandits: A tutorial](https://sites.google.com/view/practical-bandits-tutorial/) by Bram Van Dan Akker et al
 - [I2ML](https://slds-lmu.github.io/i2ml/) by Bernd Bischl et al
+- [Causal ML](https://github.com/MCKnaus/causalML-teaching) by MC Knaus
 
 
 ## Interview Prep
