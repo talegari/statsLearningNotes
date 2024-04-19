@@ -34,7 +34,6 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Statistical Methods for Behavioral and Social Sciences](https://web.stanford.edu/class/psych252/index.html) by Ewart Thomas, Benoît Monin
 - [Reproducible Research Course by Eric C. Anderson](http://eriqande.github.io/rep-res-web/)
 - [A workshop on analyzing topic modeling (LDA, CTM, STM) using R](https://github.com/wesslen/Topic-Modeling-Workshop-with-R)
-- [EMIS/CSE 5/7331: Data Mining, Fall 2018](https://michael.hahsler.net/SMU/EMIS7332/) by Hahsler
 - [Bayesian Deep Learning](https://www.cs.tufts.edu/comp/150BDL/2019f/index.html) -- Tufts CS Special Topics Course
 - [Data processing and more with R: LLAP 2019 workshop](https://github.com/Learning-Library-Analytics-Project/LLAP-Workshop-2019)
 - [ECON 305: Economics, Causality, and Analytics](http://www.nickchk.com/econ305.html) by Nick Huntington-Klein
@@ -184,4 +183,5 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Big Data Analytics](https://umatter.github.io/BigData/) by Ulrich Matter
 - [Fraud Detection (practical handbook)](https://fraud-detection-handbook.github.io/fraud-detection-handbook/Foreword.html) by Yann-Aël Le Borgne et al
 - [Imbalanced Binary Classification: A Survey with code](https://pibieta.github.io/imbalanced_learning/README.html) by Alessandro Morita et al
+- [Introduction to Data mining (R book)](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/book/index.html) by Hahsler
 
