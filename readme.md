@@ -184,4 +184,5 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Fraud Detection (practical handbook)](https://fraud-detection-handbook.github.io/fraud-detection-handbook/Foreword.html) by Yann-Aël Le Borgne et al
 - [Imbalanced Binary Classification: A Survey with code](https://pibieta.github.io/imbalanced_learning/README.html) by Alessandro Morita et al
 - [Introduction to Data mining (R book)](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/book/index.html) by Hahsler
+- [Data Science Notes](https://bookdown.org/mpfoley1973/data-sci/) by Foley
 
