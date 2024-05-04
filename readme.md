@@ -54,6 +54,7 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Practical Bandits: A tutorial](https://sites.google.com/view/practical-bandits-tutorial/) by Bram Van Dan Akker et al
 - [I2ML](https://slds-lmu.github.io/i2ml/) by Bernd Bischl et al
 - [Causal ML](https://github.com/MCKnaus/causalML-teaching) by MC Knaus
+- [Introduction to R and Geographic Information Systems (GIS)](https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/) by Dr. Vallicrosa
 
 
 ## Interview Prep
