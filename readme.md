@@ -56,6 +56,7 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Causal ML](https://github.com/MCKnaus/causalML-teaching) by MC Knaus
 - [Introduction to R and Geographic Information Systems (GIS)](https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/) by Dr. Vallicrosa
 - [Examples to implement asynchronous programming in Shiny](https://github.com/hypebright/async_shiny)
+- [Data Visualization](https://datavizf23.classes.andrewheiss.com/) bt Andrew Heiss
 
 
 ## Interview Prep
