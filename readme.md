@@ -189,3 +189,4 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Introduction to Data mining (R book)](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/book/index.html) by Hahsler
 - [Data Science Notes](https://bookdown.org/mpfoley1973/data-sci/) by Foley
 - [End-to_end data science with R](https://e2e-ds-r.franckess.com/) by Rene Essomba
+- [Bandit algorithms](https://tor-lattimore.com/downloads/book/book.pdf) by Tor Lattimore et al
