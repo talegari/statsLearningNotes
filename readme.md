@@ -190,3 +190,4 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Data Science Notes](https://bookdown.org/mpfoley1973/data-sci/) by Foley
 - [End-to_end data science with R](https://e2e-ds-r.franckess.com/) by Rene Essomba
 - [Bandit algorithms](https://tor-lattimore.com/downloads/book/book.pdf) by Tor Lattimore et al
+- [Data Analytics: Small Data Approach](https://dataanalyticsbook.info/) by Shuai Huang and Houtao Deng
