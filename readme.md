@@ -192,4 +192,4 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Bandit algorithms](https://tor-lattimore.com/downloads/book/book.pdf) by Tor Lattimore et al
 - [Data Analytics: Small Data Approach](https://dataanalyticsbook.info/) by Shuai Huang and Houtao Deng
 - [Veridical Data Science](https://vdsbook.com/) by Bin YU et al
-  
+- [Efficient Machine Learning with R](https://emlwr.org/) by Simon P. Couch 
