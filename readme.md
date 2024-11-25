@@ -194,3 +194,4 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Veridical Data Science](https://vdsbook.com/) by Bin YU et al
 - [Efficient Machine Learning with R](https://emlwr.org/) by Simon P. Couch
 - [Applied Causal Inference](https://appliedcausalinference.github.io/aci_book/) by Uday Kamath et al
+- [Mathematical Methods in Data Science (MMiDS)](https://mmids-textbook.github.io/) by Sebastien Roch
