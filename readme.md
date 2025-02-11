@@ -21,6 +21,7 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [TABNET: ATTENTIVE INTERPRETABLE TABULAR LEARNING](https://arxiv.org/abs/1908.07442) by Sercan O Arik, TomasPfister
 - [Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data](https://arxiv.org/abs/1909.06312) by Sergei Popov, Stanislav Morozov, Artem Babenko
 - [Hierarchical Shrinkage: Improving the accuracy and interpretability of tree-based models.](https://proceedings.mlr.press/v162/agarwal22b.html) by Abhineet Agarwal et al
+- [Splitting criteria for ordinal decision trees: an experimental study](https://arxiv.org/abs/2412.13697v1) by Rafael Ayllón-Gavilán et al
 
 
 ## Courses
@@ -196,3 +197,6 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Applied Causal Inference](https://appliedcausalinference.github.io/aci_book/) by Uday Kamath et al
 - [Mathematical Methods in Data Science (MMiDS)](https://mmids-textbook.github.io/) by Sebastien Roch
 - [Causal Inference: Design Patterns in Causal Inference](https://causalbook.com/-/Introduction) by Gorkem Tugrut Ozer
+- [Models Demystified: A Practical Guide from Linear Regression to Deep Learning](https://m-clark.github.io/book-of-models/) by Michael Clark et al
+- [Design and Analysis of Experiments and Observational Studies using R](https://designexptr.org/) by Nathan Taback
+
