@@ -199,4 +199,5 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Causal Inference: Design Patterns in Causal Inference](https://causalbook.com/-/Introduction) by Gorkem Tugrut Ozer
 - [Models Demystified: A Practical Guide from Linear Regression to Deep Learning](https://m-clark.github.io/book-of-models/) by Michael Clark et al
 - [Design and Analysis of Experiments and Observational Studies using R](https://designexptr.org/) by Nathan Taback
+- [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html) by Osawaldo Martin et al
 
