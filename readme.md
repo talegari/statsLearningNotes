@@ -201,4 +201,5 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Design and Analysis of Experiments and Observational Studies using R](https://designexptr.org/) by Nathan Taback
 - [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html) by Osawaldo Martin et al
 - [Introduction to Mathematical Optimization with Python](https://indrag49.github.io/Numerical-Optimization/) by Indranil Ghosh
+- [Probability and Statistics for Data Science](https://github.com/cfgranda/ps4ds/blob/main/ps4ds_preprint.pdf) by Carlos Fernandez-Granda
 
