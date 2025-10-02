@@ -68,7 +68,8 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [The IllustratedMachine Learning website](https://illustrated-machine-learning.github.io/index.html) by Francesco Di Salvo  et al
 - [Machine learning tutorials](https://github.com/ethen8181/machine-learning) by MingYu (Ethen) Liu
 - [Data-Science-Interview-Questions-Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers) by youssefHosni
-- [ Data-Science-Interview-Preperation-Resources](https://github.com/youssefHosni/Data-Science-Interview-Preperation-Resources) by youssefHosni
+- [Data-Science-Interview-Preperation-Resources](https://github.com/youssefHosni/Data-Science-Interview-Preperation-Resources) by youssefHosni
+- [Data Science Topics](https://datascience.oneoffcoder.com/index.html) by Jee Vang
 
 ## Notes/Books
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Hastie et al
