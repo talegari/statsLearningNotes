@@ -207,4 +207,5 @@ A list of papers/notes/books in statistical learning, machine learning, datascie
 - [Probability and Statistics for Data Science](https://github.com/cfgranda/ps4ds/blob/main/ps4ds_preprint.pdf) by Carlos Fernandez-Granda
 - [Causal Artificial Intelligence](https://causalai-book.net/) by Elias Bareinboim
 - [Regression modeling strategies](https://hbiostat.org/rmsc/) by Frank Harrel
-
+- [Introductory econometrics (R, Python, Julia)](https://www.urfie.net/) by Florian Heiss, Brunner
+- [Introduction to Econometrics with R](https://www.econometrics-with-r.org/) by Christoph Hanck, Martin Arnold, Alexander Gerber, and Martin Schmelzer
